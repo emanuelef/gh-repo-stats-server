@@ -397,9 +397,9 @@ function TimeSeriesChart() {
         <TextField
           style={{
             marginTop: "20px",
-            marginRight: "20px",
+            marginRight: "10px",
             marginLeft: "10px",
-            width: "100px",
+            width: "90px",
           }}
           size="small"
           id="total-stars"
@@ -412,7 +412,7 @@ function TimeSeriesChart() {
         <TextField
           style={{
             marginTop: "20px",
-            marginRight: "20px",
+            marginRight: "10px",
             marginLeft: "10px",
             width: "200px",
           }}
@@ -429,7 +429,7 @@ function TimeSeriesChart() {
             marginTop: "20px",
             marginRight: "20px",
             marginLeft: "10px",
-            width: "150px",
+            width: "120px",
           }}
           size="small"
           id="age"
